@@ -5,13 +5,13 @@
 </div>
 
 <p align="center">
-  <a href="#live-control-room">CONTROL ROOM</a>
+  <a href="#about">ABOUT</a>
   &nbsp;·&nbsp;
-  <a href="#current-experiments">EXPERIMENTS</a>
+  <a href="#now">NOW</a>
   &nbsp;·&nbsp;
-  <a href="#the-toolbox">TOOLBOX</a>
+  <a href="#stack">STACK</a>
   &nbsp;·&nbsp;
-  <a href="#connect--exit">EXIT</a>
+  <a href="#contact">CONTACT</a>
 </p>
 
 ---
@@ -46,8 +46,10 @@
 <p><strong>Data & systems</strong></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,linux" alt="MySQL, SQLite, Oracle Database and Linux">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux" alt="MySQL, SQLite and Linux">
 </p>
+
+`Oracle Database`
 
 <details>
 <summary><strong>Full stack and tools</strong></summary>
@@ -67,18 +69,6 @@ Git · GitHub · Linux · VS Code
   <img src="https://img.shields.io/badge/Cybersecurity-92929D?style=flat-square" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/AI-92929D?style=flat-square" alt="Artificial Intelligence">
   <img src="https://img.shields.io/badge/System%20Architecture-92929D?style=flat-square" alt="System Architecture">
-</p>
-
-## Activity
-
-<p align="center">
-  <a href="https://github.com/phaghidow">
-    <img src="./assets/dashboard.svg" alt="Automatically refreshed public GitHub activity metrics for phaghidow">
-  </a>
-</p>
-
-<p align="center">
-  <sub>Public GitHub API snapshot · refreshed by the existing scheduled workflow</sub>
 </p>
 
 ## Contact
