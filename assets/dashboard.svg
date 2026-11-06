@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">GitHub activity signal for phaghidow</title>
   <desc id="desc">Live public repository, follower, star, and recent activity metrics.</desc>
-  <rect width="1200" height="360" rx="8" fill="#090B10"/>
-  <g fill="none" stroke="#1B2025"><path d="M40 190h1120M40 250h1120"/><path d="M300 55v210M600 55v210M900 55v210"/></g>
+  <rect width="1200" height="360" rx="8" fill="#F7F4EE"/>
+  <g fill="none" stroke="#E5DED3"><path d="M40 190h1120M40 250h1120"/><path d="M300 55v210M600 55v210M900 55v265"/></g>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <text x="40" y="42" fill="#A8AFBA" font-size="13" text-anchor="start">PUBLIC SIGNAL / PHAGHIDOW</text>
-    <text x="1160" y="42" fill="#626B78" font-size="11" text-anchor="end">SYNCED 2026-11-06</text>
-    <text x="150" y="88" fill="#626B78" font-size="12" text-anchor="middle">REPOSITORIES</text><text x="150" y="145" fill="#F4F5F7" font-size="42" text-anchor="middle">11</text>
-    <text x="450" y="88" fill="#626B78" font-size="12" text-anchor="middle">FOLLOWERS</text><text x="450" y="145" fill="#F4F5F7" font-size="42" text-anchor="middle">1</text>
-    <text x="750" y="88" fill="#626B78" font-size="12" text-anchor="middle">STARS RECEIVED</text><text x="750" y="145" fill="#F4F5F7" font-size="42" text-anchor="middle">0</text>
-    <text x="1050" y="88" fill="#626B78" font-size="12" text-anchor="middle">RECENT EVENTS</text><text x="1050" y="145" fill="#F4F5F7" font-size="42" text-anchor="middle">10</text>
-    <text x="40" y="310" fill="#626B78" font-size="12" text-anchor="start">Public REST API snapshot. Contribution history is intentionally linked to GitHub rather than approximated here.</text>
-    <circle cx="40" cy="42" r="3" fill="#F4F5F7"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="40" y="42" fill="#252525" font-size="13" text-anchor="start">PUBLIC SIGNAL / PHAGHIDOW</text>
+    <text x="1160" y="42" fill="#8A8177" font-size="11" text-anchor="end">SYNCED 2026-11-06</text>
+    <text x="150" y="88" fill="#8A8177" font-size="12" text-anchor="middle">REPOSITORIES</text><text x="150" y="145" fill="#252525" font-size="42" text-anchor="middle">11</text>
+    <text x="450" y="88" fill="#8A8177" font-size="12" text-anchor="middle">FOLLOWERS</text><text x="450" y="145" fill="#252525" font-size="42" text-anchor="middle">1</text>
+    <text x="750" y="88" fill="#8A8177" font-size="12" text-anchor="middle">STARS RECEIVED</text><text x="750" y="145" fill="#252525" font-size="42" text-anchor="middle">0</text>
+    <text x="1050" y="88" fill="#8A8177" font-size="12" text-anchor="middle">RECENT EVENTS</text><text x="1050" y="145" fill="#252525" font-size="42" text-anchor="middle">10</text>
+    <text x="40" y="310" fill="#8A8177" font-size="12" text-anchor="start">Public REST API snapshot. Contribution history is linked to GitHub rather than approximated here.</text>
+    <circle cx="40" cy="42" r="3" fill="#A66A45"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
   </g>
 </svg>
