@@ -1,88 +1,127 @@
 <p align="center">
-  <img src="./assets/digital-flux.svg" alt="Moncef Bensaid — Software Engineering and Information Systems">
+  <img src="./assets/control-room.svg" alt="Control Room — Moncef Bensaid builds software, systems and experiments">
 </p>
 
 <p align="center">
-  <a href="https://moncef-bensaid.vercel.app">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/moncef-bensaid/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/phaghidow">GitHub</a>
+  <a href="#live-control-room">CONTROL ROOM</a>
+  &nbsp;·&nbsp;
+  <a href="#current-experiments">EXPERIMENTS</a>
+  &nbsp;·&nbsp;
+  <a href="#the-toolbox">TOOLBOX</a>
+  &nbsp;·&nbsp;
+  <a href="#connect--exit">EXIT</a>
 </p>
 
-## About
+## ENTRY POINT
 
-I am **Moncef Bensaid**, a software engineering and information systems student
-focused on building useful, reliable, and maintainable digital solutions.
+I’m **Moncef Bensaid** — a software engineering and information systems
+student exploring the space between useful software, connected systems, and
+the ideas that make both work.
 
-I hold a **Licence in ISIL** (*Ingénierie des Systèmes d'Information et
-Logiciels*) and am currently pursuing a **Master 1 in RSE** (*Réseaux et
-Systèmes Embarqués*). My work is gradually connecting software development
-with networks, embedded systems, and connected technologies.
+Licence in **ISIL** (*Ingénierie des Systèmes d'Information et Logiciels*).
+Currently studying **Master 1 RSE** (*Réseaux et Systèmes Embarqués*).
 
-I am particularly interested in software engineering, IoT, cybersecurity,
-artificial intelligence and data science, modern technologies, and system
-architecture.
+> Build something useful. Understand how it works. Keep exploring.
 
-## Technical expertise
+## LIVE CONTROL ROOM
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python · PHP · Java · C · TypeScript · JavaScript · SQL |
-| **Frameworks & development** | Laravel · Vue.js · React · FastAPI · Tailwind CSS · PyQt5 |
-| **Databases** | MySQL · SQLite · Oracle Database |
-| **Tools & environment** | Git · GitHub · Linux · VS Code |
+<p align="center">
+  <img src="./assets/dashboard.svg" alt="Live public GitHub metrics for phaghidow">
+</p>
 
-## Selected work
+<p align="center">
+  <sub><code>PUBLIC API / AUTO-REFRESHED</code>&nbsp;&nbsp; <a href="https://github.com/phaghidow">open full activity graph →</a></sub>
+</p>
 
-Four projects that represent different parts of my current engineering practice:
+## CURRENT EXPERIMENTS
 
-### [Project Management System](https://github.com/phaghidow/project-management-pfe)
+Not a project catalogue. A few places where I am testing ideas, workflows,
+interfaces, and systems.
 
-A Laravel web platform for managing the project lifecycle, including users,
+<details>
+<summary><strong>01 / PROJECT MANAGEMENT SYSTEM</strong> · Laravel web platform</summary>
+
+An application for following a project from creation to closure: users,
 roles, tasks, milestones, dependencies, validation, collaboration, and
 traceability.
 
 `Laravel` `PHP` `Vue` `Tailwind CSS` `MySQL / SQLite`
 
-### [Bābil Bookstore](https://github.com/phaghidow/Babil/tree/farid-dev)
+→ [open the repository](https://github.com/phaghidow/project-management-pfe)
+</details>
 
-A Java Swing desktop bookstore application with a local catalogue, search and
-filters, book details, cart and library flows, light/dark themes, and a
-simulated checkout.
+<details>
+<summary><strong>02 / BĀBIL</strong> · Java desktop bookstore</summary>
+
+A Java Swing catalogue experiment with local books and EPUB editions,
+search and filters, details, cart and library flows, light/dark themes, and
+a simulated checkout.
 
 `Java` `Swing` `SQLite` `JDBC`
 
-### [Procurement Offer Evaluation](https://github.com/phaghidow/Evaluation-Soumissionaires)
+→ [open the repository](https://github.com/phaghidow/Babil/tree/farid-dev)
+</details>
 
-A PyQt5 desktop application for managing tender dossiers, technical and
-financial evaluation, SQLite persistence, Excel import, audit history, and
-Word report export.
+<details>
+<summary><strong>03 / PROCUREMENT EVALUATION</strong> · PyQt5 workflow tool</summary>
+
+A desktop workflow for tender dossiers, supplier offers, technical
+qualification, financial review, Excel import, audit history, and Word
+report export.
 
 `Python` `PyQt5` `SQLite` `openpyxl` `python-docx`
 
-### [Distributed Chat System](https://github.com/phaghidow/SID_Project)
+→ [open the repository](https://github.com/phaghidow/Evaluation-Soumissionaires)
+</details>
 
-A networking project combining a C TCP authentication server, a C UDP
-broadcast server, and C and Java clients with authentication, heartbeats,
-message history, and activity logging.
+<details>
+<summary><strong>04 / DISTRIBUTED CHAT</strong> · C + Java networking study</summary>
 
-`C` `Java` `TCP/IP` `UDP` `Socket programming`
+A networking study combining a C TCP authentication server, a C UDP
+broadcast server, and C and Java clients with heartbeats, message history,
+and activity logging.
 
-## GitHub activity
+`C` `Java` `TCP/IP` `UDP` `sockets`
+
+→ [open the repository](https://github.com/phaghidow/SID_Project)
+</details>
+
+## THE TOOLBOX
+
+<p><code>LANGUAGES</code></p>
+
+`Python` `PHP` `Java` `C` `TypeScript` `JavaScript` `SQL`
+
+<p><code>WEB / APPLICATIONS</code></p>
+
+`Laravel` `Vue.js` `React` `FastAPI` `Tailwind CSS` `PyQt5`
+
+<p><code>DATA / SYSTEMS</code></p>
+
+`MySQL` `SQLite` `Oracle Database` `Git` `GitHub` `Linux` `VS Code`
+
+## CURRENTLY EXPLORING
+
+`COMPUTER NETWORKS` · `EMBEDDED SYSTEMS` · `INTERNET OF THINGS`
+
+`CYBERSECURITY` · `ARTIFICIAL INTELLIGENCE` · `SYSTEM ARCHITECTURE`
+
+These are active learning directions, not claims of expertise.
+
+## ACTIVITY SIGNAL
+
+The dashboard above is generated from GitHub’s public REST API by a scheduled
+workflow in this repository. It reports public account data only; no
+contribution count or streak is approximated locally.
+
+## CONNECT / EXIT
 
 <p align="center">
-  <img src="./assets/dashboard.svg" alt="Automatically refreshed public GitHub activity metrics for phaghidow">
+  <a href="https://moncef-bensaid.vercel.app/">PORTFOLIO</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/moncef-bensaid/">LINKEDIN</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/phaghidow">GITHUB</a>
 </p>
 
-<p align="center">
-  <sub>Public GitHub API snapshot · refreshed automatically · <a href="https://github.com/phaghidow">full contribution history</a></sub>
-</p>
-
-## Connect
-
-If you would like to discuss software engineering, systems, or a project:
-
-- [Portfolio](https://moncef-bensaid.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/moncef-bensaid/)
-- [GitHub](https://github.com/phaghidow)
+<p align="center"><code>CONTROL ROOM / playground for ideas / end transmission</code></p>
