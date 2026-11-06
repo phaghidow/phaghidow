@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Moncef Bensaid — Full Stack Developer</title>
+  <desc id="desc">Editorial engineering banner with copper network geometry.</desc>
+  <rect width="1600" height="420" fill="#1A1A18"/>
+  <g fill="none" stroke="#3B3A36" stroke-width="1">
+    <path d="M920 0v420M1080 0v420M1240 0v420M1400 0v420"/>
+    <path d="M840 70h760M840 210h760M840 350h760"/>
+    <path d="M1010 0v420M1320 0v420"/>
+  </g>
+  <g fill="none" stroke="#EAB308" stroke-width="1.5" opacity=".8">
+    <path d="M840 350 1010 210 1080 70 1240 210 1400 70 1600 0"/>
+    <path d="M1010 420 1080 350 1320 350 1400 210 1600 210"/>
+    <path d="M920 70h90l70 140h240l80-140h200"/>
+  </g>
+  <g fill="#EAB308">
+    <circle cx="1010" cy="210" r="4"/><circle cx="1080" cy="70" r="4"/>
+    <circle cx="1240" cy="210" r="4"/><circle cx="1400" cy="70" r="4"/>
+    <circle cx="1320" cy="350" r="4"/>
+  </g>
+  <g fill="#F5F3EE">
+    <text x="92" y="156" font-family="Georgia, serif" font-size="54" letter-spacing="1">Moncef Bensaid</text>
+    <text x="96" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="4">FULL STACK DEVELOPER</text>
+    <text x="96" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2" fill="#EAB308">ENGINEERING / INFORMATION SYSTEMS / PRACTICAL SOFTWARE</text>
+  </g>
+  <path d="M96 238h168" stroke="#EAB308" stroke-width="2"/>
+</svg>
