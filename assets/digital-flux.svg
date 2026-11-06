@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
-  <title id="title">Digital Flux — Kinetic Field</title>
-  <desc id="desc">Animated monochrome particle field and diagonal signal sweep surrounding the identity Moncef Bensaid.</desc>
-  <rect width="1600" height="620" fill="#101214"/>
+  <title id="title">MONCEF FARID BENSAID — Engineering ideas into digital systems.</title>
+  <desc id="desc">Animated monochrome particle field and diagonal signal sweep surrounding the full name Moncef Farid Bensaid.</desc>
+  <rect width="1600" height="620" rx="8" fill="#090B10"/>
   <g fill="#41474D">
     <circle cx="850" cy="90" r="2"/><circle cx="980" cy="145" r="3"/><circle cx="1120" cy="80" r="2"/>
     <circle cx="1260" cy="180" r="2"/><circle cx="1430" cy="110" r="3"/><circle cx="760" cy="250" r="2"/>
@@ -21,10 +21,11 @@
   <path d="M760 570 1110 105" fill="none" stroke="#F4F4F4" stroke-width="1" opacity=".8">
     <animate attributeName="opacity" values=".15;.8;.15" dur="3.8s" repeatCount="indefinite"/>
   </path>
-  <g fill="#F4F4F4">
-    <text x="92" y="220" font-family="Georgia, serif" font-size="68" letter-spacing="2">MONCEF</text>
-    <text x="92" y="295" font-family="Georgia, serif" font-size="68" letter-spacing="2">BENSAID</text>
-    <text x="96" y="355" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="5" fill="#A7ADB4">SOFTWARE &amp; SYSTEMS ENGINEERING</text>
-    <text x="96" y="425" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="3" fill="#A7ADB4">DIGITAL FLUX / FIELD STUDY / 02</text>
+  <g fill="#F4F5F7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="600">
+    <text x="92" y="205" font-size="76" letter-spacing="9">MONCEF<tspan fill="#A8AFBA">.</tspan><animate attributeName="opacity" values="0;1;1" keyTimes="0;.24;1" dur="1.8s" fill="freeze"/></text>
+    <text x="92" y="295" font-size="76" letter-spacing="9">FARID<tspan fill="#A8AFBA">.</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.24;.48;1" dur="2.2s" fill="freeze"/></text>
+    <text x="92" y="385" font-size="76" letter-spacing="9">BENSAID<animate attributeName="opacity" values="0;0;0;1" keyTimes="0;.24;.48;.72" dur="2.7s" fill="freeze"/></text>
+    <text x="96" y="445" font-size="16" letter-spacing="5" font-weight="400" fill="#A8AFBA">ENGINEERING IDEAS INTO DIGITAL SYSTEMS.<animate attributeName="opacity" values="0;0;1" keyTimes="0;.6;1" dur="3.2s" fill="freeze"/></text>
+    <text x="96" y="500" font-size="12" letter-spacing="3" font-weight="400" fill="#626B78">DIGITAL FLUX / IDENTITY NODE / 01</text>
   </g>
 </svg>

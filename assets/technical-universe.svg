@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Technical Universe</title>
-  <desc id="desc">A monochrome connected constellation representing five technical areas.</desc>
-  <rect width="1200" height="420" fill="#101214"/>
+  <title id="title">Technical environment</title>
+  <desc id="desc">A monochrome connected constellation representing the technologies used by Moncef Farid Bensaid.</desc>
+  <rect width="1200" height="420" rx="8" fill="#090B10"/>
   <g fill="none" stroke="#1B2025" stroke-width="1">
     <path d="M0 70h1200M0 210h1200M0 350h1200"/>
     <path d="M120 0v420M360 0v420M600 0v420M840 0v420M1080 0v420"/>
@@ -16,11 +16,11 @@
     <circle cx="1030" cy="210" r="8"/><circle cx="840" cy="315" r="8"/>
     <circle cx="360" cy="315" r="8"/>
   </g>
-  <g fill="#A7ADB4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1">
-    <text x="112" y="178">SOFTWARE</text><text x="304" y="73">AI</text>
-    <text x="558" y="178">SYSTEMS</text><text x="792" y="73">SECURITY</text>
-    <text x="956" y="178">NETWORKS</text><text x="784" y="350">EMBEDDED</text>
-    <text x="303" y="350">CONNECTED</text>
+  <g fill="#A8AFBA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1">
+    <text x="110" y="178">PYTHON / C</text><text x="314" y="73">JAVA</text>
+    <text x="540" y="178">WEB SYSTEMS</text><text x="780" y="73">DATABASES</text>
+    <text x="955" y="178">LINUX</text><text x="775" y="350">GIT / API</text>
+    <text x="286" y="350">FRONTEND</text>
   </g>
   <circle cx="600" cy="210" r="26" fill="none" stroke="#A7ADB4" stroke-width="1" stroke-dasharray="3 7">
     <animateTransform attributeName="transform" type="rotate" from="0 600 210" to="360 600 210" dur="12s" repeatCount="indefinite"/>

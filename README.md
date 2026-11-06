@@ -1,38 +1,41 @@
 <p align="center">
-  <img src="./assets/digital-flux.svg" alt="Digital Flux — Moncef Bensaid, Software and Systems Engineering">
+  <img src="./assets/digital-flux.svg" alt="MONCEF FARID BENSAID — Engineering ideas into digital systems.">
 </p>
 
 <p align="center">
-  <a href="#technical-universe">TECHNICAL UNIVERSE</a>
+  <sub><code>IDENTITY / 01</code>&nbsp;&nbsp; <code>STATUS: BUILDING</code>&nbsp;&nbsp; <code>UTC+01:00</code></sub>
+</p>
+
+<p align="center">
+  <a href="#activity-signal">ACTIVITY SIGNAL</a>
   &nbsp;·&nbsp;
-  <a href="#development-trace">DEVELOPMENT TRACE</a>
+  <a href="#technical-environment">TECHNICAL ENVIRONMENT</a>
 </p>
 
----
-
-## Technical Universe
+## Activity Signal
 
 <p align="center">
-  <img src="./assets/technical-universe.svg" alt="Connected constellation of software engineering, artificial intelligence, embedded systems, cybersecurity, and connected systems">
+  <img src="./assets/dashboard.svg" alt="Live GitHub activity metrics for phaghidow">
 </p>
 
 <p align="center">
-  <sub>Software engineering · Artificial intelligence · Embedded systems · Cybersecurity · Connected systems</sub>
+  <sub>Public GitHub data · refreshed automatically · contribution graph remains available on the profile</sub>
 </p>
 
-## Development Trace
+## Technical Environment
 
-<p align="center"><a href="https://github.com/phaghidow">OPEN PROFILE / VIEW CONTRIBUTION GRAPH →</a></p>
+<p align="center">
+  <img src="./assets/technical-universe.svg" alt="Technical constellation: Python, C, Java, PHP, Laravel, Vue.js, React, FastAPI, TypeScript, MySQL, SQLite, Oracle Database, Linux, and Git">
+</p>
+
+<p align="center">
+  <sub>Python · C · Java · PHP · Laravel · Vue.js · React · FastAPI · TypeScript · MySQL · SQLite · Oracle · Linux · Git</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/phaghidow">GITHUB</a>
   &nbsp;·&nbsp;
-  <a href="https://moncef-bensaid.vercel.app">PORTFOLIO</a>
-  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/moncef-bensaid/">LINKEDIN</a>
-</p>
-
-<p align="center">
-  <sub>Exploring ideas. Building systems. Understanding technology.</sub><br>
-  <sub>Moins d'explications. Plus d'expression.</sub>
+  &nbsp;·&nbsp;
+  <a href="https://moncef-bensaid.vercel.app">PORTFOLIO</a>
 </p>
