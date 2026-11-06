@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="t">
+<title id="t">Moncef BENSAID, Farid BENSAID: two Git branches, moncef and farid, merge into Moncef Farid BENSAID</title>
+<style>:root{--bg:#0d1117;--ln:#30363d;--fg:#e6edf3;--mu:#8b949e;--a:#2dd4bf;--b:#c084fc;--m:#58a6ff}@media(prefers-color-scheme:light){:root{--bg:#fff;--ln:#d0d7de;--fg:#1f2328;--mu:#59636e;--a:#0b7a6e;--b:#8250df;--m:#0969da}}text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}path{fill:none;stroke-width:3;stroke-dasharray:1;stroke-dashoffset:0}.la{stroke:var(--a)}.lb{stroke:var(--b)}.lm{stroke:var(--m)}.c{fill:var(--bg);stroke-width:3}.n{transform-box:fill-box;transform-origin:center}.pill{font-size:13px;font-weight:700;fill:var(--bg);text-anchor:middle}.nm{font-size:44px;font-weight:700;fill:var(--fg)}.sn{fill:var(--m)}.cap{font-size:14px;fill:var(--mu)}.all{animation:out 12s linear infinite}@keyframes out{0%,92%{opacity:1}96%,99.9%{opacity:0}}.k0{animation:k0 12s linear infinite}.k1{animation:k1 12s linear infinite}.k2{animation:k2 12s linear infinite}.k3{animation:k3 12s linear infinite}.k4{animation:k4 12s linear infinite}.k5{animation:k5 12s linear infinite}.k6{animation:k6 12s linear infinite}.k7{animation:k7 12s ease-out infinite}.k8{animation:k8 12s ease-out infinite}.k9{animation:k9 12s ease-out infinite}.k10{animation:k10 12s ease-out infinite}.k11{animation:k11 12s ease-out infinite}.k12{animation:k12 12s ease-out infinite}.k13{animation:k13 12s ease-out infinite}.k14{animation:k14 12s ease-out infinite}.k15{animation:k15 12s ease-out infinite}.k16{animation:k16 12s ease-out infinite}.k17{animation:k17 12s ease-out infinite}.k18{animation:k18 12s ease-out infinite}.k19{animation:k19 12s ease-out infinite}.k20{animation:k20 12s ease-out infinite}.k21{animation:k21 12s ease-out infinite}.k22{animation:k22 12s ease-out infinite}@keyframes k0{0%,5%{stroke-dashoffset:1}11.7%,100%{stroke-dashoffset:0}}@keyframes k1{0%,5%{stroke-dashoffset:1}11.7%,100%{stroke-dashoffset:0}}@keyframes k2{0%,11.7%{stroke-dashoffset:1}25%,100%{stroke-dashoffset:0}}@keyframes k3{0%,12.9%{stroke-dashoffset:1}26.2%,100%{stroke-dashoffset:0}}@keyframes k4{0%,26.7%{stroke-dashoffset:1}33.3%,100%{stroke-dashoffset:0}}@keyframes k5{0%,26.7%{stroke-dashoffset:1}33.3%,100%{stroke-dashoffset:0}}@keyframes k6{0%,35.8%{stroke-dashoffset:1}38.3%,100%{stroke-dashoffset:0}}@keyframes k7{0%,1.7%{opacity:0;transform:scale(.3)}5%,100%{opacity:1;transform:scale(1)}}@keyframes k8{0%,10.4%{opacity:0;transform:scale(.3)}12.9%,100%{opacity:1;transform:scale(1)}}@keyframes k9{0%,11.7%{opacity:0;transform:scale(.3)}14.2%,100%{opacity:1;transform:scale(1)}}@keyframes k10{0%,14.8%{opacity:0;transform:scale(.3)}17.3%,100%{opacity:1;transform:scale(1)}}@keyframes k11{0%,16.1%{opacity:0;transform:scale(.3)}18.6%,100%{opacity:1;transform:scale(1)}}@keyframes k12{0%,19.3%{opacity:0;transform:scale(.3)}21.8%,100%{opacity:1;transform:scale(1)}}@keyframes k13{0%,20.6%{opacity:0;transform:scale(.3)}23.1%,100%{opacity:1;transform:scale(1)}}@keyframes k14{0%,23.8%{opacity:0;transform:scale(.3)}26.2%,100%{opacity:1;transform:scale(1)}}@keyframes k15{0%,25%{opacity:0;transform:scale(.3)}27.5%,100%{opacity:1;transform:scale(1)}}@keyframes k16{0%,34.2%{opacity:0;transform:scale(1)}34.7%{opacity:.9}43.3%,100%{opacity:0;transform:scale(2.8)}}@keyframes k17{0%,33.3%{opacity:0;transform:scale(.3)}36.7%,100%{opacity:1;transform:scale(1)}}@keyframes k18{0%,7.5%{opacity:0;transform:translateX(-14px)}11.7%,100%{opacity:1;transform:none}}@keyframes k19{0%,8.8%{opacity:0;transform:translateX(-14px)}12.9%,100%{opacity:1;transform:none}}@keyframes k20{0%,37.5%{opacity:0;transform:translateX(-14px)}42.5%,100%{opacity:1;transform:none}}@keyframes k21{0%,40.8%{opacity:0;transform:translateX(-14px)}45.8%,100%{opacity:1;transform:none}}@keyframes k22{0%,47.5%{opacity:0;transform:translateX(-14px)}50.8%,100%{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="899" height="279" rx="14" fill="var(--bg)" stroke="var(--ln)"/>
+<g class="all">
+<path class="la k0" pathLength="1" d="M60 130C90 130 90 70 120 70"/>
+<path class="lb k1" pathLength="1" d="M60 130C90 130 90 190 120 190"/>
+<path class="la k2" pathLength="1" d="M120 70H330"/>
+<path class="lb k3" pathLength="1" d="M120 190H330"/>
+<path class="la k4" pathLength="1" d="M330 70C365 70 365 130 400 130"/>
+<path class="lb k5" pathLength="1" d="M330 190C365 190 365 130 400 130"/>
+<path class="lm k6" pathLength="1" d="M412 130H440"/>
+<circle class="c n k7" cx="60" cy="130" r="9" stroke="var(--m)"/>
+<circle class="c n k8" cx="120" cy="70" r="8" stroke="var(--a)"/>
+<circle class="c n k9" cx="120" cy="190" r="8" stroke="var(--b)"/>
+<circle class="c n k10" cx="190" cy="70" r="8" stroke="var(--a)"/>
+<circle class="c n k11" cx="190" cy="190" r="8" stroke="var(--b)"/>
+<circle class="c n k12" cx="260" cy="70" r="8" stroke="var(--a)"/>
+<circle class="c n k13" cx="260" cy="190" r="8" stroke="var(--b)"/>
+<circle class="c n k14" cx="330" cy="70" r="8" stroke="var(--a)"/>
+<circle class="c n k15" cx="330" cy="190" r="8" stroke="var(--b)"/>
+<circle class="n k16" cx="400" cy="130" r="12" fill="none" stroke="var(--m)" stroke-width="2"/>
+<circle class="n k17" cx="400" cy="130" r="12" fill="var(--m)"/>
+<g class="k18"><rect x="88.5" y="32" width="63" height="22" rx="11" fill="var(--a)"/><text class="pill" x="120" y="47">moncef</text></g>
+<g class="k19"><rect x="92.5" y="212" width="55" height="22" rx="11" fill="var(--b)"/><text class="pill" x="120" y="227">farid</text></g>
+<text class="nm k20" x="450" y="120" textLength="316.8" lengthAdjust="spacingAndGlyphs">Moncef Farid</text>
+<text class="nm sn k21" x="450" y="172" textLength="184.8" lengthAdjust="spacingAndGlyphs">BENSAID</text>
+<text class="cap k22" x="60" y="262">$ git merge farid  # Moncef Farid BENSAID</text>
+</g>
+</svg>
