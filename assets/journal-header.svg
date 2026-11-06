@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Moncef Bensaid — Software and Systems Engineering</title>
+  <desc id="desc">Monochrome technical journal header with an animated signal trace.</desc>
+  <rect width="1600" height="420" fill="#F4F4F4"/>
+  <g fill="none" stroke="#C2C7CC" stroke-width="1">
+    <path d="M820 0v420M980 0v420M1140 0v420M1300 0v420M1460 0v420"/>
+    <path d="M760 70h840M760 210h840M760 350h840"/>
+  </g>
+  <path d="M760 350 900 350 980 210 1060 210 1140 70 1220 210 1300 210 1460 70 1600 70"
+    fill="none" stroke="#202326" stroke-width="2" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#202326">
+    <circle cx="980" cy="210" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="70" r="4"/>
+    <circle cx="1300" cy="210" r="4"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#111315">
+    <text x="92" y="156" font-family="Georgia, serif" font-size="54" letter-spacing="1">Moncef Bensaid</text>
+    <text x="96" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="4">SOFTWARE &amp; SYSTEMS ENGINEERING</text>
+    <text x="96" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2" fill="#202326">TECHNICAL JOURNAL / ISSUE 01</text>
+  </g>
+  <path d="M96 238h168" stroke="#202326" stroke-width="2"/>
+</svg>
