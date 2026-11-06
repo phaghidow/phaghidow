@@ -1,15 +1,18 @@
 <div align="center">
 
-# Moncef Bensaid
-
-**Software engineering student · Full Stack · Networks & embedded systems**
-
-Building practical software while moving closer to the systems underneath.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://moncef-bensaid.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moncef-bensaid/)
+<img src="assets/git-name.svg" alt="Moncef BENSAID and Farid BENSAID: two Git branches merge into Moncef Farid BENSAID" width="100%">
 
 </div>
+
+<p align="center">
+  <a href="#live-control-room">CONTROL ROOM</a>
+  &nbsp;·&nbsp;
+  <a href="#current-experiments">EXPERIMENTS</a>
+  &nbsp;·&nbsp;
+  <a href="#the-toolbox">TOOLBOX</a>
+  &nbsp;·&nbsp;
+  <a href="#connect--exit">EXIT</a>
+</p>
 
 ---
 
