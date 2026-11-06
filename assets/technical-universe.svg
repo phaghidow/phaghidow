@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Technical Universe</title>
+  <desc id="desc">A monochrome connected constellation representing five technical areas.</desc>
+  <rect width="1200" height="420" fill="#101214"/>
+  <g fill="none" stroke="#1B2025" stroke-width="1">
+    <path d="M0 70h1200M0 210h1200M0 350h1200"/>
+    <path d="M120 0v420M360 0v420M600 0v420M840 0v420M1080 0v420"/>
+  </g>
+  <g fill="none" stroke="#41474D" stroke-width="1.5">
+    <path d="M170 210 360 105 600 210 840 105 1030 210 840 315 600 210 360 315Z"/>
+    <path d="M360 105 360 315M840 105 840 315M170 210h860"/>
+  </g>
+  <g fill="#F4F4F4">
+    <circle cx="170" cy="210" r="8"/><circle cx="360" cy="105" r="8"/>
+    <circle cx="600" cy="210" r="10"/><circle cx="840" cy="105" r="8"/>
+    <circle cx="1030" cy="210" r="8"/><circle cx="840" cy="315" r="8"/>
+    <circle cx="360" cy="315" r="8"/>
+  </g>
+  <g fill="#A7ADB4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1">
+    <text x="112" y="178">SOFTWARE</text><text x="304" y="73">AI</text>
+    <text x="558" y="178">SYSTEMS</text><text x="792" y="73">SECURITY</text>
+    <text x="956" y="178">NETWORKS</text><text x="784" y="350">EMBEDDED</text>
+    <text x="303" y="350">CONNECTED</text>
+  </g>
+  <circle cx="600" cy="210" r="26" fill="none" stroke="#A7ADB4" stroke-width="1" stroke-dasharray="3 7">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 210" to="360 600 210" dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>

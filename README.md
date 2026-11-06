@@ -1,80 +1,38 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/journal-header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/journal-header.svg">
-    <img src="./assets/journal-header.svg" alt="Moncef Bensaid — Software and Systems Engineering">
-  </picture>
+  <img src="./assets/digital-flux.svg" alt="Digital Flux — Moncef Bensaid, Software and Systems Engineering">
 </p>
 
 <p align="center">
-  <a href="#current-explorations">01 / Explorations</a>
+  <a href="#technical-universe">TECHNICAL UNIVERSE</a>
   &nbsp;·&nbsp;
-  <a href="#workbench">02 / Workbench</a>
-  &nbsp;·&nbsp;
-  <a href="#activity--journal">03 / Journal</a>
+  <a href="#development-trace">DEVELOPMENT TRACE</a>
 </p>
 
 ---
 
-## Identity
-
-### Moncef Bensaid
-
-**Software & Systems Engineering**
-
-> Exploring ideas. Building systems. Understanding technology.
-
-<sub>TECHNICAL JOURNAL / PERSONAL ENGINEERING NOTEBOOK</sub>
-
-## Current Explorations
-
-| 01 | Software Architecture |
-|---:|:---|
-| 02 | Artificial Intelligence |
-| 03 | Embedded Systems |
-| 04 | Cybersecurity |
-| 05 | Connected Systems / IoT |
-
-<details>
-<summary>Notebook note / Note de carnet</summary>
-
-I am interested in the decisions behind reliable software: how systems are structured, how intelligent components behave, and how connected technology meets the real world.
-
-_Comprendre avant de construire. Construire pour apprendre._
-
-</details>
-
-## Workbench
-
-```text
-LANGUAGES       Python · PHP · JavaScript · TypeScript · Java
-APPLICATIONS    Laravel · Vue.js · React · FastAPI
-DATA            MySQL · SQLite
-SYSTEMS         Git · Linux · APIs · relational modelling
-```
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="28" height="28" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="28" height="28" alt="Laravel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="FastAPI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28" alt="Git">
-</p>
-
-## Activity / Journal
-
-Development is documented in the repositories below and in the contribution graph maintained by GitHub.
+## Technical Universe
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/202326/phaghidow" alt="GitHub contribution activity for phaghidow">
+  <img src="./assets/technical-universe.svg" alt="Connected constellation of software engineering, artificial intelligence, embedded systems, cybersecurity, and connected systems">
 </p>
 
 <p align="center">
-  <sub>Observe carefully. Model clearly. Ship deliberately.</sub><br>
-  <sub>Observer avec précision. Modéliser clairement. Construire avec intention.</sub>
+  <sub>Software engineering · Artificial intelligence · Embedded systems · Cybersecurity · Connected systems</sub>
+</p>
+
+## Development Trace
+
+<p align="center"><a href="https://github.com/phaghidow">OPEN PROFILE / VIEW CONTRIBUTION GRAPH →</a></p>
+
+<p align="center">
+  <a href="https://github.com/phaghidow">GITHUB</a>
+  &nbsp;·&nbsp;
+  <a href="https://moncef-bensaid.vercel.app">PORTFOLIO</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/moncef-bensaid/">LINKEDIN</a>
+</p>
+
+<p align="center">
+  <sub>Exploring ideas. Building systems. Understanding technology.</sub><br>
+  <sub>Moins d'explications. Plus d'expression.</sub>
 </p>

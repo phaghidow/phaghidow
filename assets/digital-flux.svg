@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Flux — Kinetic Field</title>
+  <desc id="desc">Animated monochrome particle field and diagonal signal sweep surrounding the identity Moncef Bensaid.</desc>
+  <rect width="1600" height="620" fill="#101214"/>
+  <g fill="#41474D">
+    <circle cx="850" cy="90" r="2"/><circle cx="980" cy="145" r="3"/><circle cx="1120" cy="80" r="2"/>
+    <circle cx="1260" cy="180" r="2"/><circle cx="1430" cy="110" r="3"/><circle cx="760" cy="250" r="2"/>
+    <circle cx="920" cy="330" r="2"/><circle cx="1080" cy="270" r="3"/><circle cx="1240" cy="390" r="2"/>
+    <circle cx="1390" cy="330" r="2"/><circle cx="820" cy="500" r="3"/><circle cx="1040" cy="540" r="2"/>
+    <circle cx="1210" cy="480" r="2"/><circle cx="1510" cy="510" r="3"/>
+  </g>
+  <g fill="none" stroke="#1B2025" stroke-width="1">
+    <path d="M760 90 980 145 1120 80 1260 180 1430 110"/>
+    <path d="M760 250 920 330 1080 270 1240 390 1390 330"/>
+    <path d="M820 500 1040 540 1210 480 1510 510"/>
+    <path d="M980 145 920 330 1040 540M1260 180 1240 390 1210 480"/>
+  </g>
+  <path d="M690 620 1160 0" fill="none" stroke="#A7ADB4" stroke-width="2" stroke-dasharray="2 18">
+    <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="2.6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M760 570 1110 105" fill="none" stroke="#F4F4F4" stroke-width="1" opacity=".8">
+    <animate attributeName="opacity" values=".15;.8;.15" dur="3.8s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#F4F4F4">
+    <text x="92" y="220" font-family="Georgia, serif" font-size="68" letter-spacing="2">MONCEF</text>
+    <text x="92" y="295" font-family="Georgia, serif" font-size="68" letter-spacing="2">BENSAID</text>
+    <text x="96" y="355" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="5" fill="#A7ADB4">SOFTWARE &amp; SYSTEMS ENGINEERING</text>
+    <text x="96" y="425" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="3" fill="#A7ADB4">DIGITAL FLUX / FIELD STUDY / 02</text>
+  </g>
+</svg>
