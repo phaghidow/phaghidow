@@ -2,6 +2,8 @@
 
 <img src="assets/git-name.svg" alt="Moncef BENSAID and Farid BENSAID: two Git branches merge into Moncef Farid BENSAID" width="100%">
 
+<img src="assets/avatar-identicon.gif" alt="Animated identicon for phaghidow" width="180">
+
 </div>
 
 <p align="center">
